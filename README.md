@@ -1,2 +1,2 @@
 This is the solution codes for POJ.com problems.
-All of which are Accept.
+All of which are Accepted.
